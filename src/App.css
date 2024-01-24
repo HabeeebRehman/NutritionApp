@@ -1,0 +1,21 @@
+.main{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 23px;
+  }
+  .search-section > input {
+    width: 500px;
+    height: 5px;
+    padding: 26px;
+    font-size: 26px;
+    border: 2px solid navy;
+    border-radius: 20px ;
+  }
+  h1{
+    font-size: 50px;
+  }
+  h2{
+    font-size: 25px;
+  }
